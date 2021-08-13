@@ -13,4 +13,4 @@
 - php artisan db:seed
 - npm install & npm run prod
 - Имя/пароль администратора admin@admin.com/admin
-  ![Image alt](https://github.com/{Shenter}/{secretSanta}/raw/{main}/secretsanta.png)
+  ![Image alt](https://github.com/Shenter/secretSanta/raw/master/secretsanta.png)
